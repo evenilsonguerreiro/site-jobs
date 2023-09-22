@@ -218,15 +218,16 @@ footer:hover{
         width: 150px;
     }
     h3{
-      font-size: 0.8em;
-      color: green;  
+      font-size: 1em;
+      color: green; 
+      
     }
      #foto-3{
         width: 40px;
     }
     #area3 p{
         font-size: 0.7em;
-        padding: 5px;
+        padding: 4px;
         line-height: 15px;
         
     } 
