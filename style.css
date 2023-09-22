@@ -179,6 +179,7 @@ footer{
         font-size: 0.5em;
         margin-top: 5px;
         line-height: 10px;
+        margin-left: 1px;
     }
     main ,section,#area2{
         width: 300px;
@@ -189,15 +190,16 @@ footer{
         line-height: 15px;
         margin-top: 30px;
     }
-    section, p{
-        font-size: 0.8em;
+    section p{
+        font-size: 0.5em;
+        
     }
     #foto-3  {
         width: 50px;
         color: green;
     }
     #area3 p{
-       font-size: 0.8em; 
+       font-size: 0.5em; 
     }
     
     
